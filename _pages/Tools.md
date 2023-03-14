@@ -6,22 +6,20 @@ type: pages
 layout: single
 author_profile: true
 ---
-## 웹 기반 툴
-### 건물 에너지 분리 툴
-![이미지 alt](/assets/images/BEDT.png)
+## 건물 에너지 시뮬레이션 툴
+![이미지 alt](/assets/images/ecohous.png)
 {: .align-center}   
-* 링크: [__Link__](https://flask-prj-qxquv.run.goorm.app/){:target="_blank"}
-* 키워드: Building energy; Energy disaggregation    
-* 설명: A tool to simply disaggregate building energy from bills into baseline, cooling and heating loads   
-* 과제정보: Digital twin-based building control research. (2022 - 2023). _KIER_   
+* [__바로가기__](https://plus.ecoehouse.or.kr/){:target="_blank"}
+* 키워드: 건물 에너지 시뮬레이션; 동적 시뮬레이션    
+* 설명: 건물 특성을 입력하면 건물에서 월별로 소비하는 에너지를 예측하는 툴   
+* 과제정보: 저소득층 주택 에너지 효율개선 사업. (2012 - 진행 중). _한국에너지재단_   
 * 관련성과: [__1__](https://www.sciencedirect.com/science/article/pii/S2352710223004126){:target="_blank"}
 
-## 건물 모델
-### 프로토타입 건물 모델
-![이미지 alt](/assets/images/bldg_low.jpeg)
+## 건물 에너지 분리 툴
+![이미지 alt](/assets/images/BEDT.png)
 {: .align-center}   
-* 링크: [__Link__](https://github.com/BldgICT/Bldgmodel){:target="_blank"}
-* 키워드: Building simulation model; Low-income housing; EnergyPlus
-* 설명: Prototype building simulation model(.idf) for low-income housing in South Korea and its user guide
-* 과제정보: Low-income housing energy efficiency improvement project. (2012 - ongoing). _Korea Energy Foundation (KOREF)_   
-* 관련성과: [__1__](https://www.mdpi.com/1996-1073/13/21/5796){:target="_blank"}
+* [__바로가기__](https://flask-prj-qxquv.run.goorm.app/){:target="_blank"}
+* 키워드: 건물 에너지; 에너지 분리    
+* 설명: 고지서의 에너지를 기저/냉방/난방 부하로 간단하게 분리해주는 툴   
+* 과제정보: 디지털 트윈 기반 건물 제어 기술 실증. (2022 - 진행 중). _한국에너지기술연구원_  
+* 관련성과: [__1__](https://www.sciencedirect.com/science/article/pii/S2352710223004126){:target="_blank"}

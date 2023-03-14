@@ -10,3 +10,5 @@ main:
     url: /Patents/    
   - title: "소프트웨어"
     url: /Tools/
+  - title: "오픈데이터"
+    url: /Data/
